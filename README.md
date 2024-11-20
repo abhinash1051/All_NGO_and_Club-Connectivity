@@ -1,4 +1,3 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/ngoworldcommunity/NGOWorld)](https://github.com/ngoworldcommunity/NGOWorld/releases) ![GitHub repo size](https://img.shields.io/github/repo-size/ngoworldcommunity/NGOWorld)
 
 # What is NgoWorld ?
 
@@ -50,7 +49,7 @@ NgoWorld is a hub to **connect** NGOs, Charities, and the world to **collaborate
 
 Remember, Good PR makes you a Good contributor !
 
-We at NgoWorld work hard to maintain the structure, and [use conventional Pull](https://github.com/ngoworldcommunity/NGOWorld/blob/main/CONTRIBUTING.md#pull-request-title-format-) request titles and commits. Without a proper template for the PR, not following the guidelines and spam might get the pull request closed, or banned.
+
 
 ## 1️. Setting up the project locally
 
