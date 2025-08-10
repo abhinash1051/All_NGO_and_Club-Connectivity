@@ -9,13 +9,8 @@ NgoWorld is a hub to **connect** NGOs, Charities, and the world to **collaborate
 
 <div  align="center" >
 
-<div  align="center" >
-<a href="https://milanhub.vercel.app/"><img alt="C" src="https://img.shields.io/badge/Production%20Release-07C160?style=for-the-badge&logo=vercel&logoColor=white"></a> <a href="https://github.com/sponsors/tamalCodes"><img alt="Sponsor Tamal" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
 
 
-</div>
-
-<img alt="NgoWorld Readme Banner" src="./src/assets/pictures/readme/MilanBanner.png" width="700px"/>
 
 </div>
 
